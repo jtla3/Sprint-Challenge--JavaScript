@@ -8,7 +8,7 @@
 
 2. Name five different types in JavaScript. What is so special about Arrays?
 * The five different types in JavaScript are:
-- object an object is a value in memory which is referenced by an identifier. It associates a **key** with a **value**.
+- object is an object is a value in memory which is referenced by an identifier. It associates a **key** with a **value**.
 - boolean represents a logicale entity and can have two values of **true** or **false**.
 - number is an numerical integer that has floating points.
 - string represents texual data and is enclosed with **""** or **''**. The indexes are zero based also.
